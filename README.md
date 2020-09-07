@@ -1,6 +1,6 @@
 # terraform-aws-vpc
 
-[![CircleCI](https://circleci.com/gh/azavea/terraform-aws-vpc.svg?style=svg)](https://circleci.com/gh/azavea/terraform-aws-vpc)
+
 
 A Terraform module to create an Amazon Web Services (AWS) Virtual Private Cloud (VPC).
 
