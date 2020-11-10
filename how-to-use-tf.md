@@ -9,11 +9,15 @@ Install Terraform on Linux:
 		sudo yum -y install terraform
 		terraform -help
 
-- Now that you have terraform installed create a directory to work out of "Do not name it 'terraform'.
+- Now that you have terraform installed create a directory to work out of "Do not name it 'terraform'".
+		
+		
 		mkdir yourdirectoryname
 		
 
 - Next make sure you have git installed and check the version:
+		
+		
 		sudo yum install git
 		git --version
 		touch .gitignorefile 
